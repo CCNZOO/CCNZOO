@@ -1,4 +1,4 @@
-![$CCNZOO Logo](logo.png)
+![$CCNZOO Logo](CCNZOO-512x512.png)
 # $CCNZOO – Official Repository
 
 **Ticker:** $CCNZOO  
