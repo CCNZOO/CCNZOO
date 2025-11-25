@@ -1,16 +1,19 @@
-## Hi there 👋
+# $CCNZOO – Official Repository
 
-<!--
-**CCNZOO/CCNZOO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ticker:** $CCNZOO  
+**Network:** Solana (SPL Token)  
+**Contract Address:**  
+`EqUFKuXtpppyJCLPBCLxKdUtvpxhy65bPRd9GYmbBamn`
 
-Here are some ideas to get you started:
+**Launch:** Fair launch on Raydium – November 15, 2025  
+**Supply:** 1,000,000,000 $CCNZOO (100 % circulating)  
+**Authorities:** Mint, Freeze and Update Authority REVOKED  
+**LP:** 100 % burned
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Official Links
+- https://x.com/CCNZOO?t=vxZq3MduaIh1T3nw3_ww2Q&s=09  
+- Telegram: https://t.me/+UtMIZif8hvllNDAx  
+- DexScreener: https://dexscreener.com/solana/EqUFKuXtpppyJCLPBCLxKdUtvpxhy65bPRd9GYmbBamn  
+- Website: https://ccnzoo.carrd.co/
+
+Community-driven memecoin. No team tokens, no presale, no rug.
