@@ -15,6 +15,6 @@
 - https://x.com/CCNZOO?t=vxZq3MduaIh1T3nw3_ww2Q&s=09  
 - Telegram: https://t.me/+UtMIZif8hvllNDAx  
 - DexScreener: https://dexscreener.com/solana/EqUFKuXtpppyJCLPBCLxKdUtvpxhy65bPRd9GYmbBamn  
-- Website: https://ccnzoo.carrd.co/
+- Website: https://ccnzoo.uwu.ai
 
 Community-driven memecoin. No team tokens, no presale, no rug.
