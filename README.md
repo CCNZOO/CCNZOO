@@ -16,5 +16,6 @@
 - Telegram: https://t.me/+UtMIZif8hvllNDAx  
 - DexScreener: https://dexscreener.com/solana/EqUFKuXtpppyJCLPBCLxKdUtvpxhy65bPRd9GYmbBamn  
 - Website: https://ccnzoo.uwu.ai
+- Discord: https://discord.com/users/1447357877613236234
 
 Community-driven memecoin. No team tokens, no presale, no rug.
