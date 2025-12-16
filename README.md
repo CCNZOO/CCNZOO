@@ -1,4 +1,4 @@
-![$CCNZOO Logo](1734199379315-512x512.png)
+<img src="https://github.com/CCNZOO/CCNZOO/blob/main/ccnzoo%20Illumination.jpg?raw=true" width="512" height="512" alt="CCNZOO Illumination - Crypto Insane Asylum"/>
 # $CCNZOO – Official Repository
 
 **Ticker:** $CCNZOO  
