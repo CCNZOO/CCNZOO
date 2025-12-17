@@ -17,5 +17,6 @@
 - DexScreener: https://dexscreener.com/solana/EqUFKuXtpppyJCLPBCLxKdUtvpxhy65bPRd9GYmbBamn  
 - Website: https://ccnzoo.uwu.ai
 - Discord: https://discord.com/users/1447357877613236234
+- YouTube: https://www.youtube.com/@CCNZOOOfficial
 
 Community-driven memecoin. No team tokens, no presale, no rug.
