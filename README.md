@@ -4,17 +4,15 @@
 **Ticker:** $CCNZOO  
 **Network:** Solana (SPL Token)  
 **Contract Address:**  
-`EqUFKuXtpppyJCLPBCLxKdUtvpxhy65bPRd9GYmbBamn`
-
-**Launch:** Fair launch on Raydium – November 15, 2025  
+`
+**Launch:**  
 **Supply:** 1,000,000,000 $CCNZOO (100 % circulating)  
 **Authorities:** Mint, Freeze and Update Authority REVOKED  
 **LP:** 100 % burned
 
 ## Official Links
 - https://x.com/CCNZOO?t=vxZq3MduaIh1T3nw3_ww2Q&s=09  
-- Telegram: https://t.me/+UtMIZif8hvllNDAx  
-- DexScreener: https://dexscreener.com/solana/EqUFKuXtpppyJCLPBCLxKdUtvpxhy65bPRd9GYmbBamn  
+- Telegram: https://t.me/+UtMIZif8hvllNDAx   
 - Website: https://ccnzoo.uwu.ai
 - Discord: https://discord.com/users/1447357877613236234
 - YouTube: https://www.youtube.com/@CCNZOOOfficial
