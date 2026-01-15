@@ -6,6 +6,7 @@
 **Contract Address:**  
 `
 **Launch:**  
+
 **Supply:** 1,000,000,000 $CCNZOO (100 % circulating)  
 **Authorities:** Mint, Freeze and Update Authority REVOKED  
 **LP:** 100 % burned
